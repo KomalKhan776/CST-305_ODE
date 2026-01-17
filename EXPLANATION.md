@@ -1,4 +1,4 @@
-# CPU Temperature Model - Detailed Explanation
+# CPU Temperature Model -Explanation
 
 **Project:** CST-305 Project 1 - Visualize ODE With SciPy  
 **Programmers:** Thi Nguyen, Komal Khan
@@ -174,4 +174,4 @@ def cpu_ode(T, t, power_func):
 
 - SciPy docs: https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html
 - Newton's Law of Cooling
-- First-order ODEs (standard differential equations)
+- First-order ODE (standard differential equations)
